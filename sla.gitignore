@@ -1,0 +1,15 @@
+    --cor--primaria--fundo: #000000;
+    --cor--secundaria--texto: #F6f6f6;
+    --cor--terciaria--destaque: #22D4FD;
+    --hover--quartenaria--hover: #272727;
+
+***Cor retro***
+    --cor--primaria--fundo: #443627;
+    --cor--secundaria--texto: #D98324;
+    --cor--terciaria--destaque: #EFDCAB;
+    --hover--quartenaria--hover: #F2F6D0;
+***Cor sla***
+    --cor--primaria--fundo: #F5F5F5;
+    --cor--secundaria--texto: #F8E7F6;
+    --cor--terciaria--destaque: #DD88CF;
+    --hover--quartenaria--hover: #4B164C;
